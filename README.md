@@ -27,11 +27,3 @@ Welcome to my GitHub portfolio! Here you'll find a showcase of my projects, demo
 
 Feel free to explore my projects and reach out to me for collaboration or inquiries!
 
-## Color Theme
-- **Primary Color**: #007bff (Vibrant Blue)
-- **Secondary Color**: #343a40 (Dark Gray)
-- **Background Color**: #f8f9fa (Light Gray)
-- **Accent Color**: #28a745 (Bright Green)
-- **Text Color**: #212529 (Dark Charcoal)
-
-
