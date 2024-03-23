@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=0.5">
     <title>Dedeepya Yarra</title>
     <style>
         body {
@@ -17,11 +17,11 @@
             width: 100%;
             max-width: 800px;
             margin: 0 auto;
-            padding: 20px;
+            padding: 10px;
         }
         h1, h2 {
             font-size: 2rem;
-            margin-bottom: 20px;
+            margin-bottom: 10px;
         }
         h3 {
             font-size: 1.5rem;
@@ -46,8 +46,6 @@
 <body>
 
 <div class="container">
-    <h1>My Personal Website</h1>
-
     <section id="career-summary">
         <h2>Career Summary</h2>
         <p>
