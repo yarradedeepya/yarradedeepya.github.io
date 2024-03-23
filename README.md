@@ -98,7 +98,11 @@ As a DevOps Engineer with over 2 years of experience, I specialize in ensuring s
         <p>Technologies: Deep Learning.</p>
         <ul>
             <li>Developed and implemented the Mother Tree Optimization Algorithm, which is a new swarm intelligence technique.</li>
-            <!-- Add more points as needed -->
+            <li>Worked with Iris image datasets and utilized the Generative Adversarial Neural Networks Model with black box and white box attack techniques.</li> 
+<li>Conducted EEG Signal Analysis, which involved quantifying eye blinks and analyzing brainwave frequencies. Successfully identified and differentiated crucial eye blinks within EEG signals to ensure accurate data interpretation. </li>
+<li>Improved the hybrid model for customer segmentation, which helped recommend strategies based on customer behavior. </li>
+<li>Designed a framework for incorporating blockchain technology in children's education and presented a paper on it at a conference.</li>
+<li>Explored the intersection of machine learning and cybersecurity, developing novel intrusion detection systems capable of detecting and mitigating sophisticated cyber threats in real-time. Used the Kitsune model for cybersecurity data analysis.</li>
         </ul>
 
         <h3>DevOps Engineer at TCS, India</h3>
