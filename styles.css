@@ -1,0 +1,93 @@
+/* General styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-size: 2em;
+}
+
+header p {
+    font-size: 1.1em;
+}
+
+.section {
+    padding: 40px 0;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.social-icons {
+    margin-top: 20px;
+}
+
+.social-icons .icon {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 1.5em;
+    color: #fff;
+    transition: color 0.3s ease;
+}
+
+.social-icons .icon:hover {
+    color: #0077b5; /* Change color as needed */
+}
+
+/* Tabs styles */
+.tab-input {
+    display: none;
+}
+
+.tab-label {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.tab-label:hover {
+    background-color: #e0e0e0;
+}
+
+.tab-input:checked + .tab-label {
+    background-color: #ccc;
+}
+
+.content {
+    display: none;
+}
+
+.tab-input:checked ~ .content {
+    display: block;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
